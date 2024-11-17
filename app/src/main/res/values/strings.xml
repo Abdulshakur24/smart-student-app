@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">L5</string>
+    <string name="destroy_activity">Destroy Activity</string>
+    <string name="linear_1">Linear 1</string>
+    <string name="linear_2">Linear 2</string>
+    <string name="relative_button">Relative Button</string>
+    <string name="relative">Relative</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="dont_have_account">Don\'t have an account? Click here to sign up</string>
+    <string name="have_account">Already have an account? Click here to sign in</string>
+
+    <string name="text_view_full_name">Name: %1$s</string>
+    <string name="text_view_email">Email: %1$s</string>
+    <string name="text_view_first_name">First Name: %1$s</string>
+    <string name="text_view_last_name">Last Name: %1$s</string>
+    <string name="text_view_status">Status: %1$s</string>
+
+    <string-array name="task_types">
+        <item>Homework</item>
+        <item>Exam</item>
+        <item>Project</item>
+        <item>Meeting</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="final_semester_description">My name is %1$s, and I am currently a 4th-year student in my final semester. I am completing the remaining units of Mobile Development, Software Development Methodologies, and Internship. I aspire to achieve top grades and graduate with First Class Honors.</string>
+</resources>

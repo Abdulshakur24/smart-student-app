@@ -1,0 +1,5 @@
+<!-- res/drawable/assistant_message_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/material_dynamic_tertiary70" />
+    <corners android:radius="12dp" />
+</shape>
