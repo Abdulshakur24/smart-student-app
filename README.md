@@ -44,31 +44,36 @@ The project followed an Agile methodology, specifically the Scrum framework. Thi
    - Developed an intuitive user interface with easy navigation and clear task visualization.
    - Implemented Material Design principles for a modern and consistent look.
 
-   ![User Interface of the Smart Student Reminder App](IMG-20241117-WA0001.jpg)
+   <img src="IMG-20241117-WA0001.jpg" alt="User Interface" height="600" >
+
    *Figure 1: User Interface demonstrating the task list and navigation.*
 
-2. **Secure user authentication**:
+3. **Secure user authentication**:
 
    - Integrated Firebase Authentication for secure user sign-up and login.
    - Implemented email verification and password reset functionality.
 
-   ![Login Screen with Firebase Authentication](IMG-20241117-WA0003.jpg)
+   <img src="IMG-20241117-WA0003.jpg" alt="User Interface" height="600">
+   
    *Figure 2: Login screen showing Firebase Authentication integration.*
 
-3. **Robust task management system**:
+4. **Robust task management system**:
 
    - Created a `Task` class to represent individual tasks with properties such as name, type, due date, and reminder time.
    - Implemented CRUD operations using Firebase Firestore, allowing users to create, read, update, and delete tasks.
 
-   ![Task Management Screen](IMG-20241117-WA0005.jpg)
+    <img src="IMG-20241117-WA0005.jpg" alt="User Interface" height="600" >
+    
    *Figure 3: Task management screen showing task creation and editing.*
 
-4. **Task categorization and due date functionality**:
+6. **Task categorization and due date functionality**:
 
    - Developed a task type spinner for easy categorization of tasks (e.g., Assignment, Exam, Project).
    - Implemented date and time pickers for setting due dates and reminder times.
 
-   ![Task Categorization and Due Date](IMG-20241117-WA0004.jpg)
+
+    <img src="IMG-20241117-WA0004.jpg" alt="User Interface" height="600" >
+    
    *Figure 4: Screen showing task categorization and due date setting.*
 
 
